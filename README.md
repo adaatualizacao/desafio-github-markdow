@@ -6,3 +6,4 @@ Desafio do curso Github Certification
 ### Realizado o clone em minha máquina;
 ### Realizado alteração na minha maquina;
 ### Realizado Commit na minha maquina;
+### Realizando Commit do Issue
